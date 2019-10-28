@@ -1,14 +1,14 @@
 {
   "name": "nodejs-starter",
   "version": "1.0.0",
-  "description": "A starter for Node.js projects, containing the basic elements",
+  "description": "A starter pack for Node.js projects, containing the basic elements",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
   "author": "Zak Warren",
-  "license": "ISC",
+  "license": "BSD-3",
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
